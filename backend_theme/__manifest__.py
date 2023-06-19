@@ -3,8 +3,8 @@
 # License LGPL-3.0 or later (http://www.gnu.org/licenses/lgpl.html).
 
 {
-    "name": "Openworx Material Backend Theme V13",
-    "summary": "Openworx Material Backend Theme V13",
+    "name": "Openworx Material Backend Theme V13 - SYSPRO fork",
+    "summary": "Openworx Material Backend Theme V13 -SYSPRO fork",
     "version": "13.0.0.3",
     "category": "Theme/Backend",
     "website": "http://www.openworx.nl",
